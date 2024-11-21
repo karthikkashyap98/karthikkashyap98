@@ -3,9 +3,8 @@
 ![MacOS](https://img.shields.io/badge/MacOS-8e8e93.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![i3WM](https://img.shields.io/badge/i3WM-2e3440?style=for-the-badge&logo=i3&logoColor=white)
 ![Sketchybar](https://img.shields.io/badge/Sketchybar-2c3e50?style=for-the-badge&logoColor=white)
-![Aerospace](https://img.shields.io/badge/Aerospace-black?style=for-the-badge&logoColor=white)
+![Aerospace](https://img.shields.io/badge/Aerospace-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
-![Tilix](https://img.shields.io/badge/Tilix-222222?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-%252357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![ZSH](https://img.shields.io/badge/ZSH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
