@@ -11,7 +11,7 @@
 - I’m currently building [Syncable](https://app.syncable.in), an event management & ticketing platform
 - Computer Science Graduate Student at University of Florida
 - Connect with me on: karthikkashyap98@gmail.com
-- Ricing enthusiast for macOS and Linux to create visually pleasing and efficient setups
+- Ricing enthusiast, customizing macOS and Linux to create visually pleasing and efficient setups
 - Ask me about Databases, Building Scalable Applications, Development Workflows & Philosphy
 - Recently started tech blogging! Check out my [latest post on Medium](https://medium.com/@karthikkashyap_84962/mongodb-query-optimization-a-developers-guide-to-boosting-performance-3a0fd4c884c5)
 
